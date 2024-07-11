@@ -5,8 +5,8 @@ This repository contains a script to enable or install Hyper-V along with Hyper-
 ## Instructions
 
 1. Clone or download the repository to your local machine.
-2. Locate the `Enable-HyperV.bat` file in the downloaded folder.
-3. Right-click the `Enable-HyperV.bat` file and select "Run as administrator".
+2. Locate the `Enable Hyper-V.bat` file in the downloaded folder.
+3. Right-click the `Enable Hyper-V.bat` file and select "Run as administrator".
 
 ```powershell
 pushd "%~dp0"
